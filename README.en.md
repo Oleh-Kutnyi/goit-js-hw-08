@@ -4,7 +4,7 @@ This project was created with Parcel. For familiarization and setting additional
 
 ## Preparing a new project
 
-1. Make sure you have an LTS version of Node.js installed on your computer.
+1. Make sure you have an LTS version of Node.js installed on your computer
    [Download and install](https://nodejs.org/en/) if needed.
 2. Clone this repository.
 3. Change the folder name from `parcel-project-template` to the name of your project.
